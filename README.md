@@ -1,2 +1,2 @@
 # leetcode-golf
-A collection of the shortest solutions to Leetcode problems
+A collection of the shortest and most convoluted solutions to Leetcode problems
